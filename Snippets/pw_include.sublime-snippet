@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<?php include("./template.inc"); ?>
+<?php include("./${1:template}.inc"); ?>
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<!-- <tabTrigger>hello</tabTrigger> -->
